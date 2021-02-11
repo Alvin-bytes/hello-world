@@ -1,2 +1,8 @@
 # hello-world
-This is my first repository!
+
+Hello developers!
+
+My name is Alvin, and I am passionate about
+Software development, and the ability to use
+Computers to create solutions for individuals and
+Corporations.
